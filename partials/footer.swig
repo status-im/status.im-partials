@@ -1,0 +1,1 @@
+<!-- shared - edit once, and update in other static sites -->
