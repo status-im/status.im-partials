@@ -1,3 +1,4 @@
+{# shared - edit once, and update in other static sites #}
 <ul class="main-nav">
     <li class="item--to-show"><a href="/get/" class="">App</a></li>
     <li class="item--to-show"> <a href="https://our.status.im/">Blog</a> </li>
