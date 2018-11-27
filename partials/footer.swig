@@ -17,10 +17,10 @@
             <div class="footer-table__column">
                 <p class="footer-header">More</p>
                 <ul class="footer-list">
-                    <li class="footer-link"><a href="/docs/" target="_blank">Status Docs</a></li>
+                    <li class="footer-link"><a href="https://status.im/docs/" target="_blank">Status Docs</a></li>
                     <li class="footer-link"><a href="https://our.status.im/" target="_blank">Status Blog</a></li>
-                    <li class="footer-link"><a href="/contribute/" target="_blank">Jobs</a></li>
-                    <li class="footer-link"><a href="/privacy-policy.html" target="_blank">Privacy Policy</a></li>
+                    <li class="footer-link"><a href="https://status.im/contribute/" target="_blank">Jobs</a></li>
+                    <li class="footer-link"><a href="https://status.im/privacy-policy.html" target="_blank">Privacy Policy</a></li>
                 </ul>
             </div>
 
